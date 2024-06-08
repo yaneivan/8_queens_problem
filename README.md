@@ -1,4 +1,4 @@
-# 8_quuens_problem
+# 8_queens_problem
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
 
